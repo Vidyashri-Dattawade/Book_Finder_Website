@@ -22,6 +22,6 @@ This project demonstrates API fetching, state management in React, and a clean u
 
 ## Live Demo
 View the live app here:  
-[Book Finder Live Demo](https://<your-codesandbox-id>.codesandbox.io)  
+https://book-finder-alex.netlify.app/
 
 
